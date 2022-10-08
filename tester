@@ -1,0 +1,3 @@
+whlie true do
+: loadstring(game:HttpGet("UrlHere",true))();
+end
